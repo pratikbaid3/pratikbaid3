@@ -1,6 +1,6 @@
 # Hey there!<br>I am Pratik Baid.
 <br>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="250">
 I am a 3rd year B.Tech student from Vellore Institute of Technology and a part time freelance developer.<br>
 SIH 2020 Winner | GSSoC Extended-2020 | SDE Intern @ POWER KICK | Freelancer @ Gewissen Digital Services<br>
 Looking forward for more contributions!<br><br>
