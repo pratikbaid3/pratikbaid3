@@ -1,4 +1,6 @@
 # Hey there!<br>I am Pratik Baid.
+<br>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 I am a 3rd year B.Tech student from Vellore Institute of Technology and a part time freelance developer.<br>
 SIH 2020 Winner | GSSoC Extended-2020 | SDE Intern @ POWER KICK | Freelancer @ Gewissen Digital Services<br>
 Looking forward for more contributions!<br>
@@ -30,7 +32,6 @@ Looking forward for more contributions!<br>
 
 ###### Tools
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
