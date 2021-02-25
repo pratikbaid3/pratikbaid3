@@ -2,7 +2,7 @@
 <br>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="250">
 I am a 3rd year B.Tech student from Vellore Institute of Technology and a part time freelance developer.<br>
-SIH 2020 Winner | SAMSUNG PRISM DEVELOPER | GSSoC Extended-2020 | SDE Intern @ POWER KICK | Freelancer @ Gewissen Digital Services<br>
+SIH 2020 Winner | SAMSUNG PRISM DEVELOPER | GSSoC 2021 | GSSoC Extended-2020 | SDE Intern @ POWER KICK | Freelancer @ Gewissen Digital Services<br>
 Looking forward for more contributions!<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikbaid3" alt="pratikbaid3" /> </p> 
@@ -35,8 +35,6 @@ Looking forward for more contributions!<br><br>
 
 ###### Tools
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
