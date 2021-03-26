@@ -43,4 +43,4 @@ Looking forward for more contributions!<br><br>
 
 ### Some of my GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pratikbaid3&count_private=true&show_icons=true&include_all_commits=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikbaid3&hide=TeX&layout=compact&count_private=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikbaid3"/>
