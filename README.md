@@ -2,7 +2,7 @@
 <br>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="250">
 I am a 3rd year B.Tech student from Vellore Institute of Technology and a part time freelance developer.<br>
-SIH 2020 Winner | SAMSUNG PRISM DEVELOPER | Founder @ Hustle Creatives | GSSoC Extended-2020 | SDE Intern @ POWER KICK <br>
+SIH 2020 Winner | SAMSUNG PRISM DEVELOPER | Founder @ Hustle Creatives | GSSoC Extended-2020 | SDE @ POWER KICK <br>
 Looking forward for more contributions!<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikbaid3" alt="pratikbaid3" /> </p> 
