@@ -1,7 +1,7 @@
 # Hey there!<br>I am Pratik Baid.
 <br>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="250">
-I am B.Tech student from Vellore Institute of Technology and a part time freelance developer.<br>
+ <br><br>
 GSoC @CCExtractor | SIH 2020 Winner | SDE @POWER KICK | SAMSUNG PRISM DEVELOPER | Founder @Hustle Creatives | GSSoC Extended-2020 | <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikbaid3" alt="pratikbaid3" /> </p> 
