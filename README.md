@@ -1,6 +1,6 @@
 # Hey there!<br>I am Pratik Baid.
 <br>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="250">
+<img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" alt="Flutter GIF">
 GSoC @CCExtractor | SIH 2020 Winner | SDE Intern @Niyo Solutions | SAMSUNG PRISM DEVELOPER | Founder @Hustle Creatives | GSSoC Extended-2020 | <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikbaid3" alt="pratikbaid3" /> </p> 
@@ -27,9 +27,7 @@ GSoC @CCExtractor | SIH 2020 Winner | SDE Intern @Niyo Solutions | SAMSUNG PRISM
 ###### Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 
 ###### Tools
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
@@ -41,4 +39,4 @@ GSoC @CCExtractor | SIH 2020 Winner | SDE Intern @Niyo Solutions | SAMSUNG PRISM
 
 ### Some of my GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pratikbaid3&count_private=true&show_icons=true&include_all_commits=true)<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikbaid3"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pratikbaid3&theme=prussian&hide_border=true)](https://git.io/streak-stats)
