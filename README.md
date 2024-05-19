@@ -1,7 +1,7 @@
 # Hey there!<br>I am Pratik Baid.
 <br>
 <img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" alt="Flutter GIF">
-GSoC @CCExtractor | SIH 2020 Winner | SDE @Niyo Solutions | SAMSUNG PRISM DEVELOPER | Founder @Hustle Creatives | GSSoC Extended-2020 | <br><br>
+GSoC @CCExtractor | SIH 2020 Winner | SDE - 2 @Niyo | SAMSUNG PRISM DEVELOPER | Founder @Hustle Creatives | GSSoC Extended-2020 | <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikbaid3" alt="pratikbaid3" /> </p> 
 
